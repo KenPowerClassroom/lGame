@@ -7,6 +7,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LGame", "LGame\LGame.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LGameTest", "LGameTest\LGameTest.vcxproj", "{C8B44021-6F3A-442E-9714-82EE371C9718}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CE0F5F7-BBAD-4209-9188-A8FE8B5ECA58}"
+	ProjectSection(SolutionItems) = preProject
+		mvp.md = mvp.md
+		research_report.md = research_report.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
